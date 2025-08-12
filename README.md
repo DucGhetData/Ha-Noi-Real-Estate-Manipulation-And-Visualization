@@ -12,7 +12,7 @@ Trong bối cảnh những năm gần đây giá bất động sản ở Việt 
 ## 📅 Quy trình thực hiện dự án
 1. Dự án sẽ sử dụng nguồn dữ liệu từ bên thứ 3 cung cấp, đường dẫn:https://www.kaggle.com/datasets/ladcva/vietnam-housing-dataset-hanoi
 2. Sử dụng Pandas và các thư viện bổ trợ khác để làm sạch và chuẩn hóa dữ liệu. Các thông tin không cần thiết hoặc sinh ra do quá trình trích xuất dữ liệu sẽ bị loại bỏ, các thông tin cần thiết được điều chỉnh để phù hợp cho việc trực quan hóa. Dữ liệu tiếp tục được lưu trong file .csv
-3. Tiếp theo là sử dụng Tableu để trực quan hóa dữ liệu và đưa ra các kết luận và phân tích về giá bất động sản ở Hà Nội
+3. Tiếp theo là sử dụng Tableau để trực quan hóa dữ liệu và đưa ra các kết luận và phân tích về giá bất động sản ở Hà Nội
 4. Cuối cùng là sử dụng thư viện scikit-learn và các kỹ thuật Random search và Grid search để xây dựng mô hình dự đoán giá nhà
 
 ## 📊 Báo cáo 
@@ -22,7 +22,7 @@ Trong bối cảnh những năm gần đây giá bất động sản ở Việt 
 Ha Noi Real Estate Visualization/
 ├── data/                # Chứa file dữ liệu gốc và dữ liệu đã xử lý
 ├── notebooks/           # Jupyter Notebooks (xử lý, phân tích, trực quan)
-├── tableu/              # File tableu
+├── tableau/             # File tableau
 ├── src/                 # Mã nguồn Python (các script, xử lý, xây dựng mô hình,...)
 ├── README.md            # File mô tả dự án
 ├── requirements.txt     # các thư viện cần cài đặt
