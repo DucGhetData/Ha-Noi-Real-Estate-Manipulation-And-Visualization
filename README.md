@@ -16,7 +16,8 @@ Trong bối cảnh những năm gần đây giá bất động sản ở Việt 
 4. Cuối cùng là sử dụng thư viện scikit-learn và các kỹ thuật Random search và Grid search để xây dựng mô hình dự đoán giá nhà
 
 ## 📊 Báo cáo
-- Xem chi tiết báo cáo tại đây: [Ha Noi Real Estate 2019-2020 Report](https://public.tableau.com/views/HaNoiRealEstateReport/BocotnhhnhBSHNi?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+- Xem chi tiết báo cáo tại đây: [Ha Noi Real Estate 2019-2020 Report](https://public.tableau.com/views/HaNoiRealEstateReport/BocotnhhnhBSHNi?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1602" height="897" alt="image" src="https://github.com/user-attachments/assets/5b29546c-97fd-4746-978c-eaedcb61291a" />
 
 ## 📂 Cấu trúc thư mục
 ```bash
