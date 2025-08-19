@@ -6,7 +6,7 @@ Trong bối cảnh những năm gần đây giá bất động sản ở Việt 
 ## 🎯 Mục tiêu
 - Làm sạch và chuẩn hóa dữ liệu.
 - Phân tích xu hướng giá, khu vực, loại hình bất động sản
-- Trực quan hóa trên Tableu phục vụ báo cáo hoặc ra quyết định đầu tư
+- Trực quan hóa trên Tableau phục vụ báo cáo hoặc ra quyết định đầu tư
 - Sử dụng các kỹ thuật trong Machine Learning nhằm xây dựng một mô hình đơn giản để dự đoán giá nhà
 
 ## 📅 Quy trình thực hiện dự án
@@ -15,7 +15,8 @@ Trong bối cảnh những năm gần đây giá bất động sản ở Việt 
 3. Tiếp theo là sử dụng Tableau để trực quan hóa dữ liệu và đưa ra các kết luận và phân tích về giá bất động sản ở Hà Nội
 4. Cuối cùng là sử dụng thư viện scikit-learn và các kỹ thuật Random search và Grid search để xây dựng mô hình dự đoán giá nhà
 
-## 📊 Báo cáo 
+## 📊 Báo cáo
+- Xem chi tiết báo cáo tại đây: [Ha Noi Real Estate 2019-2020 Report](https://public.tableau.com/views/HaNoiRealEstateReport/BocotnhhnhBSHNi?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ## 📂 Cấu trúc thư mục
 ```bash
