@@ -1,0 +1,13 @@
+# Data Processing
+pandas==2.2.2
+Unidecode==1.4.0
+
+# Data Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+numpy==2.0.1
+scikit-learn==1.5.2
+category-encoders==2.6.4
+joblib==1.4.2

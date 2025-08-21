@@ -15,14 +15,24 @@ Trong bối cảnh những năm gần đây giá bất động sản ở Việt 
 3. Tiếp theo là sử dụng Tableau để trực quan hóa dữ liệu và đưa ra các kết luận và phân tích về giá bất động sản ở Hà Nội
 4. Cuối cùng là sử dụng thư viện scikit-learn và các kỹ thuật Random search và Grid search để xây dựng mô hình dự đoán giá nhà
 
-## 📊 Báo cáo
+## 📸 Báo cáo
 - Xem chi tiết báo cáo tại đây: [Ha Noi Real Estate 2019-2020 Report](https://public.tableau.com/views/HaNoiRealEstateReport/BocotnhhnhBSHNi?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="1602" height="897" alt="image" src="https://github.com/user-attachments/assets/5b29546c-97fd-4746-978c-eaedcb61291a" />
 
+## 📊 Mô hình 
+- Nhìn chung mô hình chưa thể dự đoán được chính xác xu hướng giá bất động sản thực tế dù trải qua cả 2 quá trình tìm kiếm tham số tối ưu nhất(GridSearchCV và RandomSearchCV)
+- Nguyên nhân chủ yếu do tệp dữ liệu vô cùng hỗn loạn và đặc điểm bất động sản ở Việt Nam thường được định giá vào vị trí 
+- Các chỉ số cuối cùng của mô hình Random Forest Regressor như sau:
+    - MAE: 18.715
+    - MSE: 843.622
+    - RMSE: 29.0452
+    - R2: 0.559
+- Link Model: https://drive.google.com/drive/folders/1_C-81ziXF_nHHfR11G8ldVheKsuRtqhu?usp=sharing
 ## 📂 Cấu trúc thư mục
 ```bash
 Ha Noi Real Estate Visualization/
 ├── data/                # Chứa file dữ liệu gốc và dữ liệu đã xử lý
+├── model/               # Chứa mô hình sau khi đã đóng gói(quá nặng để push lên github)
 ├── notebooks/           # Jupyter Notebooks (xử lý, phân tích, trực quan)
 ├── tableau/             # File tableau
 ├── src/                 # Mã nguồn Python (các script, xử lý, xây dựng mô hình,...)
