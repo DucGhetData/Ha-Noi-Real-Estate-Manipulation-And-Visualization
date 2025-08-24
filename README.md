@@ -1,4 +1,4 @@
-# 🏡 Real Estate Data Crawler And Visualization - Hanoi, Vietnam
+# 🏡 Real Estate Data Visualization And Build Machine Learning Model - Hanoi, Vietnam
 
 ## 📖 Mô tả dự án
 Trong bối cảnh những năm gần đây giá bất động sản ở Việt Nam tăng cao, việc có thể nhìn nhận tình hình bất động sản là vô cùng quan trọng trong quyết định mua nhà nhằm đầu tư hay sinh sống. Nắm được nhu cầu đó, dự án này sẽ sử dụng dữ liệu bất động sản tại Việt Nam những năm 2019-2020, thời điểm bất động sản ở các thành phố lớn Hà Nội gần như đóng băng, nhằm đưa ra những góc nhìn tổng quan nhất về giá, diện tích, số lượng giao bán hàng tháng,...
